@@ -38,7 +38,7 @@ The idea will gether "AI, Smart city, Smart payment, and e-Trust"
     3. E-trust.
 
 ## Team 
- - abnaceur : http://naceur-abdeljalil.com
+ - abnaceur : https://naceur-abdeljalil.com
  - mschmitt.
  - Jerome : 
 
@@ -90,83 +90,12 @@ User case : Generate a QR code for a product. Scan. Confirm the purchase,
  
 ## Screenshots
 
-#### Main page
-
-![Alt text](http://naceur-abdeljalil.com/files/page01.png)
-
-#### Paris all districts interactive map
-
-![Alt text](http://naceur-abdeljalil.com/files/page02.png)
-
-#### Closer look to a selected district for a virtual experience
-
-![Alt text](http://naceur-abdeljalil.com/files/page03.png)
-
-#### A superMarket modal
-
-![Alt text](http://naceur-abdeljalil.com/files/page04.png)
-
-#### A virtual shopping page
-
-![Alt text](http://naceur-abdeljalil.com/files/page05.png)
-
-#### The E-shop login page
-
-![Alt text](http://naceur-abdeljalil.com/files/page07.png)
-
-#### Wallet creation
-
-![Alt text](http://naceur-abdeljalil.com/files/page09.png)
-
-#### Shop registration in the ethereum blockchain
-
-![Alt text](http://naceur-abdeljalil.com/files/page11.png)
-
-#### Mist wallet on the smart contract home page
-
-![Alt text](http://naceur-abdeljalil.com/files/page12.png)
-
-#### E-trust platform for paris regitered locations explorer
-
-![Alt text](http://naceur-abdeljalil.com/files/page13.png)
-
-
-### Screenshots of the E-PAY mobile app
-
-#### Home page
-
-![Alt text](http://naceur-abdeljalil.com/files/30.png)
-
-#### scan and buy page
-
-![Alt text](http://naceur-abdeljalil.com/files/31.png)
-
-#### The options page
-
-![Alt text](http://naceur-abdeljalil.com/files/32.png)
-
-#### Generate the QR code bar
-
-![Alt text](http://naceur-abdeljalil.com/files/35.png)
-
-#### The generated QR code bar
-
-![Alt text](http://naceur-abdeljalil.com/files/34.png)
-
-#### List of assurance options
-
-![Alt text](http://naceur-abdeljalil.com/files/33.png)
-
-#### The page of an assurance
-
-![Alt text](http://naceur-abdeljalil.com/files/36.png)
-
 ## Install the development environment
 
 Get the source:
 
 ```bash
-git clone https://me-me@bitbucket.org/me-me/angelhack2018x42.git
+git clone https://github.com/abnaceur/angelhack2018x42.git
 ```
 
 Edit your `/etc/hosts` file:
